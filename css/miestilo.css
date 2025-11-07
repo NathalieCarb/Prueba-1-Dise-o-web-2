@@ -1,0 +1,47 @@
+body{
+    background-color: beige;
+}
+
+#hero {
+    
+  background-image: url('../img/fondo1.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 320px;
+
+}
+
+.textoblanco{
+    color:white;
+    font-weight: bolder;
+}
+
+
+.icon1{
+    color:rgb(28, 28, 252);
+    font-size:50px;
+}
+
+.imgsize {
+  width: 80%;   
+  height:auto 
+  
+}
+
+
+
+.iconosfooter{
+    font-size:30px;
+    color:rgb(47, 112, 233);
+    
+}
+
+.margen-arriba-y-abajo{
+   
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+
+
+
